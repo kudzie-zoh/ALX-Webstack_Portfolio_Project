@@ -1,6 +1,6 @@
-# OrderUp
+%s/\<Delish\>/Delish/g# Delish
 
-OrderUp is a food ordering application built using the Django framework. This application allows users to browse and order food from food stalls, place their orders without the hassle of waiting in long queues and view the status of their orders in order to facilitate smooth delivery of ready orders.
+Delish is a food ordering application built using the Django framework. This application allows users to browse and order food from food stalls, place their orders without the hassle of waiting in long queues and view the status of their orders in order to facilitate smooth delivery of ready orders.
 
 ## Features
 - Browse the menu with ease and add items to cart
@@ -16,7 +16,7 @@ OrderUp is a food ordering application built using the Django framework. This ap
 ## Installation
 1. Clone the repository
 
-        git clone https://github.com/aryasuneesh/OrderUp.git
+        git clone https://github.com/kudzie-zoh/ALX-Webstack_Portfolio_Project.git
 2. Install required packages
 
         pip install -r requirements.txt
