@@ -1,11 +1,12 @@
-%s/\<Delish\>/Delish/g# Delish
+# Delish
 
-Delish is a food ordering application built using the Django framework. This application allows users to browse and order food from food stalls, place their orders without the hassle of waiting in long queues and view the status of their orders in order to facilitate smooth delivery of ready orders.
+Delish is a food ordering application built using the Django framework. This application allows users to browse and order food from food listed restaurants, place their orders without the hassle of waiting in long queues and view the status of their orders in order to facilitate smooth delivery of ready orders.
 
 ## Features
 - Browse the menu with ease and add items to cart
-- Place orders online without visiting the stall
+- Place orders online without visiting the restaurant
 - Track the status of your orders
+- Add menu items to the online store as a restaurant owner
 
 ## Prerequisites
 
@@ -30,6 +31,3 @@ Delish is a food ordering application built using the Django framework. This app
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Authors:
-Kudzai Zoraunye and Blaise Promise
